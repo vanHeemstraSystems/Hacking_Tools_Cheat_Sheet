@@ -1,5 +1,9 @@
 # Hacking Tools Cheat Sheet
 
+## OSINT
+
+We have another dedicated cheat sheet for OSINT. This can be found here: https://www.compass-security.com/fileadmin/Datein/Research/White_Papers/osint_cheat_sheet.pdf
+
 ## Blog
 
 See our blog post for more information: <br>
